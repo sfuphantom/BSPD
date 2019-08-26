@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=BSPD_SIG Pin=C1-2
+Removed Pin From Net: NetName=BSPD_SIG Pin=R6-2
+Removed Pin From Net: NetName=VREF_RC Pin=U4-3
+Removed Pin From Net: NetName=BSPD_SIG Pin=U4-4
+Added Pin To Net: NetName=BSPD_SIG Pin=U4-3
+Added Pin To Net: NetName=VREF_RC Pin=U4-4
