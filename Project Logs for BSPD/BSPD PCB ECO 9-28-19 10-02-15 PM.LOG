@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VREF_RC Pin=R5-1
+Removed Pin From Net: NetName=5V Pin=R5-2
+Removed Member From Class: ClassName=BSPD Member=R5
