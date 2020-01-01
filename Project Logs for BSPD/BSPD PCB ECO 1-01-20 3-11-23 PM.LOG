@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=CRT_SENS Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=BRAKE_SENS Pin=R12-2
+Added Pin To Net: NetName=CRT_SENS Pin=R3-1
+Added Pin To Net: NetName=5V Pin=R3-2
+Added Pin To Net: NetName=BRAKE_SENS Pin=R12-1
+Added Pin To Net: NetName=5V Pin=R12-2
