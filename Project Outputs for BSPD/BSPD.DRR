@@ -1,18 +1,19 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: BSPD.PcbDoc   1/01/20  3:27:17 PM
+NCDrill File Report For: BSPD.PcbDoc   1/12/20  4:11:19 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : BSPD.TXT
+ASCII Plated RoundHoles File : BSPD-Plated.TXT
+ASCII Non-Plated RoundHoles File : BSPD-NonPlated.TXT
 EIA File   : BSPD.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      20mil (0.5mm)                                             Round             18        PTH        0.00inch (0.00mm)
+T1      20mil (0.5mm)                                             Round             19        PTH        0.00inch (0.00mm)
 T2      40mil (1.02mm)                                            Round             6         PTH        0.00inch (0.00mm)
 T3      157mil (4mm)                                              Round             4         PTH        0.00inch (0.00mm)
 T4      118mil (3mm)                                              Round             3         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              31
+Totals                                                                              32
 
 Total Processing Time (hh:mm:ss) : 00:00:00

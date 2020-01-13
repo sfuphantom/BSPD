@@ -1,2 +1,3 @@
 Layer Pairs Export File for PCB: C:\Users\Faraz\Documents\SFU\Team Phantom\BSPD\BSPD.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=bspd.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=bspd-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=bspd-nonplated.txt|DrillLayers=gtl,gbl

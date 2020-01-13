@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: BSPD.GBR   1/01/20  3:25:52 PM
+Gerber File Extension Report For: BSPD.GBR   1/12/20  4:09:39 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -17,4 +17,7 @@ Layer Extension     Layer Description
 .GM1                Mechanical 1                            
 .GM13               Mechanical 13                           
 .GM15               Mechanical 15                           
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
 ------------------------------------------------------------------------------------------
