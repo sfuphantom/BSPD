@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: BSPD.GBR   1/12/20  4:31:00 PM
+Gerber File Extension Report For: BSPD.GBR   1/24/20  4:51:38 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -15,6 +15,7 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
+.GM2                Board Outline                           
 .GM13               Mechanical 13                           
 .GM15               Mechanical 15                           
 .GKO                Keep-Out Layer                          

@@ -2,14 +2,163 @@
 FileName = BSPD.GBR
 AutoAperture = True
 *************************************************************
+Generating : Board Outline
+      File : BSPD.GM2
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : BSPD.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : BSPD.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : BSPD.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : BSPD.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D16
+    D17
+    D18
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
 Generating : Mechanical 1
       File : BSPD.GM1
 
     Adding Layer      : Mechanical 1
 
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
 
 Used DCodes :
-    D13
+    D16
+    D17
+    D18
 *************************************************************
 
 *************************************************************
@@ -18,12 +167,69 @@ Generating : Bottom Paste
 
     Adding Layer      : Bottom Paste
 
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : BSPD.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : BSPD.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D16
+    D17
+    D18
 *************************************************************
 
 *************************************************************
@@ -32,16 +238,48 @@ Generating : Bottom Solder
 
     Adding Layer      : Bottom Solder
 
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D46
-    D47
-    D48
+    D16
+    D17
+    D18
     D49
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : BSPD.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D16
+    D17
+    D18
 *************************************************************
 
 *************************************************************
@@ -50,15 +288,23 @@ Generating : Top Solder
 
     Adding Layer      : Top Solder
 
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
     Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D31
-    D32
-    D33
+    D16
+    D17
+    D18
     D34
     D35
     D36
@@ -75,6 +321,9 @@ Used DCodes :
     D47
     D48
     D49
+    D50
+    D51
+    D52
 *************************************************************
 
 *************************************************************
@@ -82,6 +331,14 @@ Generating : Top Paste
       File : BSPD.GTP
 
     Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
 
     Adding Layer      : Top Layer
 
@@ -104,6 +361,9 @@ Used DCodes :
     D28
     D29
     D30
+    D31
+    D32
+    D33
 *************************************************************
 
 *************************************************************
@@ -111,6 +371,14 @@ Generating : Top Overlay
       File : BSPD.GTO
 
     Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
 
 
 Used DCodes :
@@ -120,16 +388,9 @@ Used DCodes :
     D13
     D14
     D15
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : BSPD.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
+    D16
+    D17
+    D18
 *************************************************************
 
 *************************************************************
@@ -140,104 +401,16 @@ Generating : Top Pad Master
 
     Adding Layer      : Multi-Layer
 
+    Adding Layer      : Mechanical 1
 
-Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D53
-    D54
-*************************************************************
+    Adding Layer      : Board Outline
 
-*************************************************************
-Generating : Bottom Pad Master
-      File : BSPD.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D53
-    D54
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : BSPD.GM15
+    Adding Layer      : Mechanical 13
 
     Adding Layer      : Mechanical 15
 
 
 Used DCodes :
-    D57
-    D58
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : BSPD.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : BSPD.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D53
-    D54
-    D55
-    D56
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : BSPD.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D57
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : BSPD.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
     D16
     D17
     D18
@@ -253,12 +426,10 @@ Used DCodes :
     D28
     D29
     D30
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
+    D31
+    D32
+    D33
     D56
+    D57
 *************************************************************
 
